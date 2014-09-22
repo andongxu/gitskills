@@ -1,6 +1,9 @@
-hello word
-add new line
-prictice merge
-new line
-upadate this line
-upper is error
+package com.an.git
+
+public class Hello{
+	
+	public static void main (String args){
+		
+	}
+
+}
