@@ -1,13 +1,9 @@
-1
-2
-3
-4
-5
-1:
-2
-1
-1
-1
-2
-2
-2
+package com.an.git
+
+public class Hello{
+
+	public static void main (String args){
+		
+	}
+
+}
